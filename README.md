@@ -27,8 +27,8 @@ Custom Among Us Mapping Studio
 	<a href="https://github.com/Isax820/LevelImposter/blob/master/LICENSE.md">
 		<img alt="GitHub License" src="https://img.shields.io/github/license/Isax820/LevelImposter">
 	</a>
-	<a href="https://ko-fi.com/digiworm">
-		<img alt="Ko-Fi" src="https://img.shields.io/badge/Support-LevelImposter-%23FF5E5B?logo=Ko-fi&logoColor=white">
+	<a href="https://ko-fi.com/isax82">
+		<img alt="Ko-Fi" src="https://img.shields.io/badge/Support-SuperImpostor-%23FF5E5B?logo=Ko-fi&logoColor=white">
 	</a>
 	<a href="https://discord.gg/9jJEBQ4qJs">
 		<img alt="Discord" src="https://img.shields.io/discord/830091888332767253?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white">
@@ -40,7 +40,7 @@ Custom Among Us Mapping Studio
 ## Features
 - 🗺️ Download from a [library of maps](https://levelimposter.net/#/maps) in-game
 - 🔀 Switch between any map within the lobby
-- 🚀 Play with any user with LevelImposter installed
+- 🚀 Play with any user with SuperImpostor installed
 - 🤝 Supports use with other mods
 - ✏️ Online [map editor](https://editor.levelimposter.net/)
 
@@ -57,7 +57,7 @@ Don\'t see a compatible mod here? Create a [Pull Request](https://github.com/Isa
 
 ## Installation
 
-1. Download `LevelImposter.zip` from the [latest release](https://github.com/Isax820/LevelImposter/releases/latest)
+1. Download `SuperImpostor.zip` from the [latest release](https://github.com/Isax820/LevelImposter/releases/latest)
 2. Extract the contents of the zip to the root folder of your Among Us
 3. Open Among Us *(It will take a couple minutes during the first launch)*
 4. Select `Maps` on the Main Menu
@@ -65,7 +65,7 @@ Don\'t see a compatible mod here? Create a [Pull Request](https://github.com/Isa
 For more information or guides on making your own map, view our [documentation](https://docs.levelimposter.net/).
 
 ## Support
-- **Discord:** https://discord.gg/9jJEBQ4qJs
+- **Discord:** https://discord.gg/zz2bCrU8wp
 - **Issues:** https://github.com/Isax820/LevelImposter/issues
 
 ## Building:
