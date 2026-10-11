@@ -15,7 +15,7 @@ namespace LevelImposter.Networking.API;
 /// </summary>
 public static class GitHubAPI
 {
-    private const string API_PATH = "https://api.github.com/repos/DigiWorm0/LevelImposter/releases?per_page=1";
+    private const string API_PATH = "https://api.github.com/repos/Isax820/LevelImposter/releases?per_page=1";
     private const string UPDATE_BLACKLIST_FLAG = "[NoAutoUpdate]";
 
     private static readonly string UpdateWhitelistFlag = $"[AU={Application.version}]";
