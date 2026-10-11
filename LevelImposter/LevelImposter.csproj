@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
-        <Title>TheSkeldReimagined</Title>
+        <Title>SuperImpostor</Title>
         <VersionPrefix>2026.10.11</VersionPrefix>
 
         <Description>Custom Among Us Mapping Studio</Description>

@@ -20,7 +20,7 @@ using Reactor.Utilities;
 
 namespace LevelImposter;
 
-[BepInAutoPlugin(ID, "TheSkeldReimagined")]
+[BepInAutoPlugin(ID, "SuperImpostor")]
 [BepInDependency("gg.reactor.api")]
 [ReactorModFlags(ModFlags.RequireOnAllClients)]
 [BepInProcess("Among Us.exe")]
@@ -105,7 +105,7 @@ public partial class LevelImposter : BasePlugin
 
         // Reactor Version Patch
         ReactorCredits.Register(
-            "TheSkeldReimagined",
+            "SuperImpostor",
             DisplayVersion,
             false,
             ReactorCredits.AlwaysShow
