@@ -117,4 +117,4 @@ This software is distributed under the GNU GPLv3 License
 
 <hr />
 
-SuperImposter is a fork of [LevelImposter](https://github.com/DigiWorm0/LevelImposter) is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+SuperImpostor is a fork of [LevelImposter](https://github.com/DigiWorm0/LevelImposter) is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
