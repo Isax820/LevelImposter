@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">
-SuperImposter
+SuperImpostor
 </h3>
 <p align="center">
 Custom Among Us Mapping Studio
