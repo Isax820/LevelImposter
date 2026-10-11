@@ -30,8 +30,8 @@ Custom Among Us Mapping Studio
 	<a href="https://ko-fi.com/isax82">
 		<img alt="Ko-Fi" src="https://img.shields.io/badge/Support-SuperImpostor-%23FF5E5B?logo=Ko-fi&logoColor=white">
 	</a>
-	<a href="https://discord.gg/9jJEBQ4qJs">
-		<img alt="Discord" src="https://img.shields.io/discord/830091888332767253?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white">
+	<a href="https://discord.gg/zz2bCrU8wp">
+		<img alt="Discord" src="https://img.shields.io/discord/1076082745509429268?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white">
 	</a>
 </p>
 <hr />
@@ -117,4 +117,4 @@ This software is distributed under the GNU GPLv3 License
 
 <hr />
 
-SuperImposter is a fork of [LevelImposter](https://github.com/DigiWorm0/LevelImposter) is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+SuperImpostor is a fork of [LevelImposter](https://github.com/DigiWorm0/LevelImposter) is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
