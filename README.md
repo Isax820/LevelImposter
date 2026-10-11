@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">
-SuperImposter
+SuperImpostor
 </h3>
 <p align="center">
 Custom Among Us Mapping Studio
@@ -28,7 +28,7 @@ Custom Among Us Mapping Studio
 		<img alt="GitHub License" src="https://img.shields.io/github/license/Isax820/LevelImposter">
 	</a>
 	<a href="https://ko-fi.com/isax82">
-		<img alt="Ko-Fi" src="https://img.shields.io/badge/Support-Isax82-%23FF5E5B?logo=Ko-fi&logoColor=white">
+		<img alt="Ko-Fi" src="https://img.shields.io/badge/Support-SuperImpostor-%23FF5E5B?logo=Ko-fi&logoColor=white">
 	</a>
 	<a href="https://discord.gg/zz2bCrU8wp">
 		<img alt="Discord" src="https://img.shields.io/discord/1076082745509429268?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white">
@@ -40,7 +40,7 @@ Custom Among Us Mapping Studio
 ## Features
 - 🗺️ Download from a [library of maps](https://levelimposter.net/#/maps) in-game
 - 🔀 Switch between any map within the lobby
-- 🚀 Play with any user with SuperImposter installed
+- 🚀 Play with any user with SuperImpostor installed
 - 🤝 Supports use with other mods
 - ✏️ Online [map editor](https://editor.levelimposter.net/)
 
@@ -57,7 +57,7 @@ Don\'t see a compatible mod here? Create a [Pull Request](https://github.com/Isa
 
 ## Installation
 
-1. Download `SuperImposter.zip` from the [latest release](https://github.com/Isax820/LevelImposter/releases/latest)
+1. Download `SuperImpostor.zip` from the [latest release](https://github.com/Isax820/LevelImposter/releases/latest)
 2. Extract the contents of the zip to the root folder of your Among Us
 3. Open Among Us *(It will take a couple minutes during the first launch)*
 4. Select `Maps` on the Main Menu
